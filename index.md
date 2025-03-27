@@ -4,32 +4,41 @@ title: "Shodai Kurasaki / 倉﨑 翔大"
 permalink: /
 ---
 
-<div style="pposition: relative; text-align: center; max-width: 100%;">
-
-  <img src="/assets/images/Kura1.png" alt="Profile Image" style="width: 100%; max-width: 600px; height: auto; margin: 0 auto; display: block; padding-left: 50%;">
-
+<div style="position: relative; width: 100%; overflow: hidden;">
+  <img src="/assets/images/Kura1.png" alt="Profile Image" style="
+    width: 100%;
+    max-width: 900px;
+    height: auto;
+    margin: 0 auto;
+    display: block;
+    padding-left: 50%;
+  ">
   <div style="
     position: absolute;
-    top: 40%;
-    left: 7%;
+    bottom: 20%;
+    left: 5%;
+    transform: translateY(-50%);
     color: #333333;
     text-align: left;
-    font-weight: bold;
+    font-weight: normal;
     font-family: sans-serif;
     text-shadow: none;
-    line-height: 1.5;
-    width: 80%;
-    max-width: 500px;
+    line-height: 1.6;
+    width: 90%;
+    max-width: 600px;
   ">
-    <span style="font-size: clamp(1.8rem, 3vw, 2.6rem);">
-    Shodai Kurasaki
+    <span style="font-size: clamp(1.6rem, 4vw, 3rem); font-weight: bold;">
+      Shodai Kurasaki
     </span><br>
-    <span style="font-size: clamp(0.6rem, 1vw, 1rem);">
-    Ph.D Student (Science)
+
+    <span style="font-size: clamp(0.8rem, 2vw, 1.5rem); color: #444444;">
+      Ph.D Student (Science)
     </span><br>
-    <span style="font-size: clamp(0.6rem, 1vw, 1rem);">
-    Toho University
-    </span><br>
+
+    <span style="font-size: clamp(0.8rem, 2vw, 1.5rem); color: #444444;">
+      Toho University
+    </span>
+
   </div>
 
 </div>
