@@ -6,7 +6,7 @@ permalink: /
 
 <div style="pposition: relative; text-align: center; max-width: 100%;">
 
-  <img src="/assets/images/Kura1.png" alt="Profile Image" style="width: 100%; max-width: 600px; height: auto; margin: 0 auto; display: block; padding-left: 10%;">
+  <img src="/assets/images/Kura1.png" alt="Profile Image" style="width: 100%; max-width: 600px; height: auto; margin: 0 auto; display: block; padding-left: 50%;">
 
   <div style="
     position: absolute;
