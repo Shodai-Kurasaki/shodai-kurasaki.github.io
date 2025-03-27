@@ -10,7 +10,7 @@ permalink: /
 
   <div style="
     position: absolute;
-    top: 20%;
+    top: 40%;
     left: 7%;
     color: #333333;
     text-align: left;
@@ -24,10 +24,10 @@ permalink: /
     <span style="font-size: clamp(1.8rem, 3vw, 2.6rem);">
     Shodai Kurasaki
     </span><br>
-    <span style="font-size: clamp(1.2rem, 2vw, 2rem);">
+    <span style="font-size: clamp(0.6rem, 1vw, 1rem);">
     Ph.D Student (Science)
     </span><br>
-    <span style="font-size: clamp(1.2rem, 2vw, 2rem);">
+    <span style="font-size: clamp(0.6rem, 1vw, 1rem);">
     Toho University
     </span><br>
   </div>
