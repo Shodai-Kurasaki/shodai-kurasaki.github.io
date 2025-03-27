@@ -53,15 +53,13 @@ permalink: /
     border-radius: 8px;
     box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
   ">
-    <span style="font-size: clamp(1.6rem, 4vw, 3rem); font-weight: bold;">
+    <span style="font-size: clamp(1.6rem, 4vh, 3rem); font-weight: bold;">
       Shodai Kurasaki
     </span><br>
-
-    <span style="font-size: clamp(0.8rem, 2vw, 1.5rem); color: #444444;">
+    <span style="font-size: clamp(0.8rem, 2vh, 1.5rem); color: #444444;">
       Ph.D Student (Science)
     </span><br>
-
-    <span style="font-size: clamp(0.8rem, 2vw, 1.5rem); color: #444444;">
+    <span style="font-size: clamp(0.8rem, 2vh, 1.5rem); color: #444444;">
       Toho University
     </span>
 
