@@ -3,7 +3,9 @@ layout: splash
 title: "Shodai Kurasaki / 倉﨑 翔大"
 permalink: /
 header:
-  image: /assets/images/Kura1.png
+  overlay_image: /assets/images/Kura1.png
+  overlay_filter: 0.3
+  overlay_height: 40vh
   caption: "VR/AR/MR (XR) セキュリティ&プライバシー・ユーザブルセキュリティ | 博士後期課程"
 ---
 
