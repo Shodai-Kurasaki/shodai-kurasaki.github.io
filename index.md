@@ -29,8 +29,11 @@ permalink: /
 
 <div style="position: relative; width: 100%; overflow: hidden;">
   <img src="/assets/images/Kura1.png" alt="Profile Image" class="kura1-image" style="
-    height: auto;
+    height: 80vh;
+    width: auto;
     display: block;
+    margin: 0 auto;
+    max-width: 100vw;
   ">
   <div style="
     position: absolute;
