@@ -4,22 +4,32 @@ title: "Shodai Kurasaki / 倉﨑 翔大"
 permalink: /
 ---
 
-<div style="position: relative; text-align: center;">
+<div style="pposition: relative; text-align: center; max-width: 100%;">
 
-  <img src="/assets/images/Kura1.png" alt="Profile Image" style="width: 100%; max-width: 800px; height: auto; margin: 0 auto; display: block;">
+  <img src="/assets/images/Kura1.png" alt="Profile Image" style="width: 100%; max-width: 600px; height: auto; margin: 0 auto; display: block; padding-left: 3%;">
 
   <div style="
     position: absolute;
-    top: 10%;
-    left: 50%;
-    transform: translateX(-50%);
-    color: white;
-    font-size: 2rem;
+    top: 65%;
+    left: 7%;
+    color: #222222;
+    text-align: left;
     font-weight: bold;
-    text-shadow: 1px 1px 5px rgba(0,0,0,0.7);
+    font-family: sans-serif;
+    text-shadow: none;
+    line-height: 1.5;
+    width: 80%;
+    max-width: 500px;
   ">
-    Shodai Kurasaki / 倉﨑 翔大<br>
-    VR/AR/MR (XR) セキュリティ&プライバシー・ユーザブルセキュリティ | 博士後期課程
+    <span style="font-size: clamp(1.8rem, 3vw, 2.6rem);">
+    Shodai Kurasaki
+    </span><br>
+    <span style="font-size: clamp(1.6rem, 3vw, 2rem);">
+    Ph.D Student (Science)
+    </span><br>
+    <span style="font-size: clamp(1.6rem, 3vw, 2rem);">
+    Toho University
+    </span><br>
   </div>
 
 </div>
