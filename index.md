@@ -34,7 +34,7 @@ permalink: /
   ">
   <div style="
     position: absolute;
-    bottom: 20%;
+    bottom: 10%;
     left: 5%;
     transform: translateY(-50%);
     color: #333333;
@@ -45,6 +45,10 @@ permalink: /
     line-height: 1.6;
     width: 90%;
     max-width: 600px;
+    padding: 1rem;
+    background-color: rgba(255, 255, 255, 0.85);
+    border-radius: 8px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
   ">
     <span style="font-size: clamp(1.6rem, 4vw, 3rem); font-weight: bold;">
       Shodai Kurasaki
