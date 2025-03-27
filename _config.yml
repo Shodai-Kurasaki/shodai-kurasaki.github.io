@@ -13,14 +13,12 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: MM
-email:
+title: "Shodai Kurasaki | 倉﨑 翔大"
+email: shodai.kurasaki [at] gmail [dot] com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-twitter_username: username
-github_username: username
+  coming soon...
+twitter_username: tenpa_shodai
+github_username: shodai-kurasaki
 minimal_mistakes_skin: default
 search: true
 
@@ -58,34 +56,37 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
+  name   : "Shodai Kurasaki / 倉﨑 翔大"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "博士後期課程(2025/04~). 専門・興味はVR/AR/MR (XR) セキュリティ&プライバシー, ユーザブルセキュリティ. 2000年生まれの大阪出身."
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
     - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      icon: "fas fa-fw fa-githb"
+      url: "https://github.com/Shodai-Kurasaki"
+    - label: "Facebook"
+      icon: "fab fa-fw fa-facebook"
+      url: "https://facebook.com/shodai.kurasaki"
+    - label: "X (Twitter)"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://x.com/tenpa_shodai"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://instagram.com/shodai.kura"
 
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
     - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      icon: "fas fa-fw fa-githb"
+      url: "https://github.com/Shodai-Kurasaki"
+    - label: "Facebook"
+      icon: "fab fa-fw fa-facebook"
+      url: "https://facebook.com/shodai.kurasaki"
+    - label: "X (Twitter)"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://x.com/tenpa_shodai"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://instagram.com/shodai.kura"
 
 defaults:
   # _posts
