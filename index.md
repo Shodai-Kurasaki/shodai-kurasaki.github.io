@@ -63,7 +63,7 @@ permalink: /
     <div style="font-size: clamp(0.4rem, 2vh, 1.4rem); color: #444444; line-height: 1.1;">
       Ph.D. Student (Science)
     </div>
-    <sdiv style="font-size: clamp(0.4rem, 2vh, 1.4rem); color: #444444; line-height: 1.1;">
+    <div style="font-size: clamp(0.4rem, 2vh, 1.4rem); color: #444444; line-height: 1.1;">
       Toho University
     </div>
 
