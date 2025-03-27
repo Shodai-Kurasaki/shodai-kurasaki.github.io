@@ -7,13 +7,13 @@ permalink: /
 <style>
   @media screen and (min-width: 1024px) {
     .kura1-image {
-      margin-left: 5%;
+      margin-left: 7.5%;
       width: 90%;
     }
   }
   @media screen and (min-width: 1400px) {
     .kura1-image {
-      margin-left: 8%;
+      margin-left: 15%;
       width: 88%;
     }
   }
@@ -41,7 +41,7 @@ permalink: /
   ">
   <div style="
     position: absolute;
-    bottom: 5%;
+    bottom: 0%;
     left: 5%;
     transform: translateY(-50%);
     color: #333333;
