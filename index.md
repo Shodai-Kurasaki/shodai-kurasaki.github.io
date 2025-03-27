@@ -37,7 +37,7 @@ permalink: /
   ">
   <div style="
     position: absolute;
-    bottom: 10%;
+    bottom: 5%;
     left: 5%;
     transform: translateY(-50%);
     color: #333333;
