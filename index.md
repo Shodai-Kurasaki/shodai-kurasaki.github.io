@@ -2,11 +2,28 @@
 layout: splash
 title: "Shodai Kurasaki / 倉﨑 翔大"
 permalink: /
-header:
-  overlay_image: /assets/images/Kura1.png
-  overlay_filter: 0.3
-  overlay_height: 40vh
-  caption: "VR/AR/MR (XR) セキュリティ&プライバシー・ユーザブルセキュリティ | 博士後期課程"
+---
+
+<div style="position: relative; text-align: center;">
+
+  <img src="/assets/images/Kura1.png" alt="Profile Image" style="width: 100%; max-width: 800px; height: auto; margin: 0 auto; display: block;">
+
+  <div style="
+    position: absolute;
+    top: 10%;
+    left: 50%;
+    transform: translateX(-50%);
+    color: white;
+    font-size: 2rem;
+    font-weight: bold;
+    text-shadow: 1px 1px 5px rgba(0,0,0,0.7);
+  ">
+    Shodai Kurasaki / 倉﨑 翔大<br>
+    VR/AR/MR (XR) セキュリティ&プライバシー・ユーザブルセキュリティ | 博士後期課程
+  </div>
+
+</div>
+
 ---
 
 博士後期課程に所属し、情報セキュリティ、特にXR空間における認証やプライバシー保護に関する研究を行っています。  
