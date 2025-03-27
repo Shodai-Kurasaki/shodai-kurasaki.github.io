@@ -50,8 +50,8 @@ permalink: /
     font-family: sans-serif;
     text-shadow: none;
     line-height: 1.6;
-    width: 90%;
-    max-width: 600px;
+    display: inline-block;
+    max-width: 90%;
     padding: 1rem;
     background-color: rgba(255, 255, 255, 0.85);
     border-radius: 8px;
