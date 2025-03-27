@@ -23,13 +23,18 @@ permalink: /
       width: 100%;
     }
   }
+  @media screen and (max-width: 682px) {
+    .kura1-image {
+        height: auto !important;
+        width: 100% !important;
+    }
+  }
 
 </style>
 <div style="position: relative; width: 100%; overflow: hidden;">
   <img src="/assets/images/Kura1.png" alt="Profile Image" class="kura1-image" style="
     height: 80vh;
     width: auto;
-    min-width: calc(80vh * 0.667);
     display: block;
     margin: 0 auto;
     max-width: 100vw;
@@ -55,10 +60,10 @@ permalink: /
     <span style="font-size: clamp(0.8rem, 4vh, 3rem); font-weight: bold;">
       Shodai Kurasaki
     </span><br>
-    <span style="font-size: clamp(0.4rem, 2vh, 0.7rem); color: #444444;">
+    <span style="font-size: clamp(0.4rem, 2vh, 1.4rem); color: #444444;">
       Ph.D Student (Science)
     </span><br>
-    <span style="font-size: clamp(0.4rem, 2vh, 0.7rem); color: #444444;">
+    <span style="font-size: clamp(0.4rem, 2vh, 1.4rem); color: #444444;">
       Toho University
     </span>
 
