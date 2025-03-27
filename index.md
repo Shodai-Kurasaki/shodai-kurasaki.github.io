@@ -4,14 +4,33 @@ title: "Shodai Kurasaki / 倉﨑 翔大"
 permalink: /
 ---
 
+<style>
+  @media screen and (min-width: 1024px) {
+    .kura1-image {
+      margin-left: 5%;
+      width: 90%;
+    }
+  }
+
+  @media screen and (min-width: 1400px) {
+    .kura1-image {
+      margin-left: 8%;
+      width: 88%;
+    }
+  }
+
+  @media screen and (max-width: 1023px) {
+    .kura1-image {
+      margin: 0 auto;
+      width: 100%;
+    }
+  }
+</style>
+
 <div style="position: relative; width: 100%; overflow: hidden;">
-  <img src="/assets/images/Kura1.png" alt="Profile Image" style="
-    width: 100%;
-    max-width: 900px;
+  <img src="/assets/images/Kura1.png" alt="Profile Image" class="kura1-image" style="
     height: auto;
-    margin: 0 auto;
     display: block;
-    padding-left: 50%;
   ">
   <div style="
     position: absolute;
