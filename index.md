@@ -76,19 +76,42 @@ permalink: /
 
 ---
 
-### Biography
-東邦大学大学院理学研究科 博士後期課程学生. 2000年大阪生まれ. 2025年3月東邦大学大学院理学研究科博士前期課程終了. 主な研究分野は, VR/AR/MR (XR) セキュリティ&プライバシー, ユーザブルセキュリティ. 天パにストパをかけている. 
+<h2>Biography</h2>
+<div style="margin-bottom: 1.5rem;">
+  東邦大学大学院理学研究科 博士後期課程学生. 2000年大阪生まれ. 2025年3月東邦大学大学院理学研究科博士前期課程終了. 主な研究分野は, VR/AR/MR (XR) セキュリティ&プライバシー, ユーザブルセキュリティ. 天パにストパをかけている. 
+</div>
 
-### Affilication
-東邦大学大学院 理学研究科 情報科学専攻 ユーザブルセキュリティ研究室
+<h2>Affiliation</h2>
+<div style="margin-bottom: 1.5rem;">
+  東邦大学大学院 理学研究科 情報科学専攻 ユーザブルセキュリティ（金岡）研究室
+</div>
 
-### Education
-**2025.4 -**
-東邦大学大学院 理学研究科 情報科学専攻 ユーザブルセキュリティ (金岡) 研究室
-博士後期課程 在学中
-**2023.4 - 2025.3**
-東邦大学大学院 理学研究科 情報科学専攻 ユーザブルセキュリティ (金岡) 研究室
-博士前期課程 修了
-**2019.4 - 2023.3**
-東邦大学 理学部 情報科学科 ユーザブルセキュリティ (金岡) 研究室
-学士課程 卒業
+<h2>Education</h2>
+<div style="margin-bottom: 1.5rem;">
+  <div style="font-weight: bold;">2025.4 -</div>
+  <div>
+    東邦大学大学院 理学研究科 情報科学専攻 ユーザブルセキュリティ（金岡）研究室<br>
+    博士後期課程 在学中
+  </div>
+</div>
+<div style="margin-bottom: 1.5rem;">
+  <div style="font-weight: bold;">2023.4 - 2025.3</div>
+  <div>
+    東邦大学大学院 理学研究科 情報科学専攻 ユーザブルセキュリティ（金岡）研究室<br>
+    博士前期課程 修了
+  </div>
+</div>
+<div style="margin-bottom: 1.5rem;">
+  <div style="font-weight: bold;">2019.4 - 2023.3</div>
+  <div>
+    東邦大学 理学部 情報科学科 ユーザブルセキュリティ（金岡）研究室<br>
+    学士課程 卒業
+  </div>
+</div>
+
+<h2>Research Projects</h2>
+<div style="margin-bottom: 1.5rem;">
+  <div style="font-weight: bold;">
+    JST CREST「多様な形態の現実を安心・安全に創り・繋ぐTrusted Inter-Reality基盤」 (2022-2028)
+  </div>
+</div>
