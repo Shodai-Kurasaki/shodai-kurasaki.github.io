@@ -114,4 +114,7 @@ permalink: /
   <div style="font-weight: bold;">
     JST CREST「多様な形態の現実を安心・安全に創り・繋ぐTrusted Inter-Reality基盤」 (2022-2028)
   </div>
+  <div>
+    金岡グループメンバー
+  </div>
 </div>
