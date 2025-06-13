@@ -76,7 +76,7 @@ author:
 footer:
   links:
     - label: "GitHub"
-      icon: "fas fa-fw fa-githb"
+      icon: "fab fa-fw fa-githb"
       url: "https://github.com/Shodai-Kurasaki"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook"
