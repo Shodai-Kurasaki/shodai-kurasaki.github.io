@@ -51,17 +51,17 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
-  - jekyll-feed
+#  - jekyll-feed
   - jemoji
   - jekyll-include-cache
 
 author:
   name   : "Shodai Kurasaki / 倉﨑 翔大"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "博士後期課程(2025/04~). 専門・興味はVR/AR/MR (XR) セキュリティ&プライバシー, ユーザブルセキュリティ. 2000年生まれの大阪出身."
+  bio    : "博士後期課程(2025/04~). 専門・興味はVR/AR/MR (XR) セキュリティ&プライバシー, ユーザブルセキュリティ. 2000年生まれ. 大阪出身."
   links:
     - label: "GitHub"
-      icon: "fas fa-fw fa-githb"
+      icon: "fab fa-fw fa-githb"
       url: "https://github.com/Shodai-Kurasaki"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook"
