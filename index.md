@@ -109,12 +109,18 @@ permalink: /
   </div>
 </div>
 
+<h2>Professional Experience</h2>
+<div style="margin-bottom: 1.5rem;">
+  <div style="font-weight: bold;">2025.4 -</div>
+  <div>
+    東邦大学 理学部 リサーチアシスタント<br>
+  </div>
+</div>
+
 <h2>Research Projects</h2>
 <div style="margin-bottom: 1.5rem;">
-  <div style="font-weight: bold;">
-    JST CREST「多様な形態の現実を安心・安全に創り・繋ぐTrusted Inter-Reality基盤」 (2022-2028)
-  </div>
   <div>
+    JST CREST「多様な形態の現実を安心・安全に創り・繋ぐTrusted Inter-Reality基盤」 (2022-2028)
     金岡グループメンバー
   </div>
 </div>
