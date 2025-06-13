@@ -57,7 +57,7 @@ plugins:
 
 author:
   name   : "Shodai Kurasaki / 倉﨑 翔大"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/assets/images/Kura1_icon.png"
   bio    : "博士後期課程(2025/04~). 専門・興味はVR/AR/MR (XR) セキュリティ&プライバシー, ユーザブルセキュリティ. 2000年生まれ. 大阪出身."
   links:
     - label: "GitHub"
