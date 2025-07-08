@@ -9,7 +9,13 @@ permalink: /publications/
 <ol class="publications">
   <li>
     <strong><u>Shodai Kurasaki</u></strong>, Akira Kanaoka.,  
-    “ImagenMovement Attacks on Optical See-Through HMD: Covert Gaze Manipulation and Privacy Risks in AR/MR Systems,”  
+    “Image Movement Attacks on Optical See-Through HMD: Covert Gaze Manipulation and Privacy Risks in AR/MR Systems,”  
+    The 3rd Annual IEEE International Conference on Metaverse Computing, Networking, and Applications (IEEE Metacom 2025), 2025. (Refereed)
+  </li>
+
+  <li>
+    <strong><u>Shodai Kurasaki</u></strong>, Akira Kanaoka.,  
+    “Image Movement Attacks on Optical See-Through HMD: Covert Gaze Manipulation and Privacy Risks in AR/MR Systems,”  
     Sysposium on Usable Privacy and Security (SOUPS2025), 2025. (Poster, Refereed)
   </li>
 
