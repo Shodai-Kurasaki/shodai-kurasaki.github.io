@@ -25,26 +25,6 @@
   <div class="author__urls-wrapper">
     <button class="btn btn--inverse">{{ site.data.ui-text[site.locale].follow_label | remove: ":" | default: "Follow" }}</button>
     <ul class="author__urls social-icons">
-        <div style="margin-top: 1em;">
-            <hr>
-            <h4 class="author__subtitle">MENU</h4>
-            <p style="margin-bottom: 2em;">
-                <a href="{{ '/' | relative_url }}">> HOME</a> &nbsp; &nbsp;
-                <a href="{{ '/publications/' | relative_url }}">> PUBLICATION</a> &nbsp; &nbsp;
-                </p>
-
-            {% if site.author.address %}
-                <hr>
-                <h4 class="author__subtitle">Address</h4>
-                <p style="white-space: pre-wrap; margin-bottom: 2em;">{{ site.author.address }}</p>
-            {% endif %}
-
-            {% if site.author.email %}
-                <hr>
-                <h4 class="author__subtitle">Email</h4>
-                <p>{{ site.author.email | replace: '[at]', '@' }}</p>
-            {% endif %}
-        </div>
       {% if author.location %}
         <li itemprop="homeLocation" itemscope itemtype="https://schema.org/Place">
           <i class="fas fa-fw fa-map-marker-alt" aria-hidden="true"></i> <span itemprop="name" class="p-locality">{{ author.location }}</span>
