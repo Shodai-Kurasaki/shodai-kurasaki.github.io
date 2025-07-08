@@ -1,62 +1,19 @@
-{%- assign_has_author = false -%}
-{%- assign_has_social = false -%}
-
-{%- if page.author_profile and site.author -%}
-  {%- assign author = site.author -%}
-  {%- assign_has_author = true -%}
-{%- endif -%}
-
-{%- include social-share.html -%}
-{%- assign social_urls = site.social_urls | default: site.data.ui-text[site.locale].social_urls | default: site.data.ui-text.en.social_urls -%}
-
-{%- if site.author.links -%}
-  {%- assign_has_social = true -%}
-{%- endif -%}
-
-<div class="page__footer-content">
-  <div class="page__footer-left">
-    {%- if assign_has_author -%}
-      <div class="author__avatar">
-        {%- if author.avatar contains "://" -%}
-          <img src="{{ author.avatar }}" alt="{{ author.name }}">
-        {%- else -%}
-          <img src="{{ author.avatar | relative_url }}" alt="{{ author.name }}">
-        {%- endif -%}
-      </div>
-      <div class="author__content">
-        <p class="author__name" itemprop="name">{{ author.name }}</p>
-        {%- if author.bio -%}
-          <p class="author__bio" itemprop="description">{{ author.bio | markdownify }}</p>
-        {%- endif -%}
-      </div>
-    {%- endif -%}
-
-    {% if assign_has_social %}
-      <div class="author__urls-wrapper">
-        <button class="btn btn--inverse">{{ social_urls.follow | default: "Follow" }}</button>
-        <ul class="author__urls social-icons">
-          {%- for link in site.author.links -%}
-            {%- if link.label and link.url -%}
-              <li><a href="{{ link.url }}" rel="nofollow noopener noreferrer" itemprop="sameAs"><i class="{{ link.icon | default: 'fas fa-link' }}" aria-hidden="true"></i><span class="label">{{ link.label }}</span></a></li>
-            {%- endif -%}
-          {%- endfor -%}
-        </ul>
-      </div>
-    {%- endif -%}
-  </div>
-
-  <div class="page__footer-right">
-    {% if site.author.address %}
-      <div>
-        <h4 class="page__footer-heading">Address</h4>
-        <p style="white-space: pre-wrap;">{{ site.author.address }}</p>
-      </div>
+<div class="page__footer-follow">
+  <ul class="social-icons">
+    {% if site.data.ui-text[site.locale].follow_label %}
+      <li><strong>{{ site.data.ui-text[site.locale].follow_label }}</strong></li>
     {% endif %}
-    {% if site.author.email %}
-      <div style="margin-top: 1em;">
-        <h4 class="page__footer-heading">Email</h4>
-        <p>{{ site.author.email | replace: '[at]', '@' }}</p>
-      </div>
+
+    {% if site.footer.links %}
+      {% for link in site.footer.links %}
+        {% if link.label and link.url %}
+          <li><a href="{{ link.url }}" rel="nofollow noopener noreferrer"><i class="{{ link.icon | default: 'fas fa-link' }}" aria-hidden="true"></i> {{ link.label }}</a></li>
+        {% endif %}
+      {% endfor %}
     {% endif %}
-  </div>
+
+    {% unless site.atom_feed.hide %}
+      <li><a href="{% if site.atom_feed.path %}{{ site.atom_feed.path }}{% else %}{{ '/feed.xml' | relative_url }}{% endif %}"><i class="fas fa-fw fa-rss-square" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].feed_label | default: "Feed" }}</a></li>
+    {% endunless %}
+  </ul>
 </div>
