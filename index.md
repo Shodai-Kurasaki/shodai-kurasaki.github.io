@@ -113,7 +113,15 @@ permalink: /
 <div style="margin-bottom: 1.5rem;">
   <div style="font-weight: bold;">2025.4 -</div>
   <div>
-    東邦大学 理学部 リサーチアシスタント<br>
+    東邦大学 理学部<br>
+    リサーチアシスタント
+  </div>
+</div>
+<div style="margin-bottom: 1.5rem;">
+  <div style="font-weight: bold;">2026.3 -</div>
+  <div>
+    理化学研究所 革新知能統合研究センター (AIP) 人工知能安全性・信頼性ユニット<br>
+    研究パートタイマーⅠ
   </div>
 </div>
 
@@ -122,5 +130,14 @@ permalink: /
   <div>
     JST CREST「多様な形態の現実を安心・安全に創り・繋ぐTrusted Inter-Reality基盤」 (2022-2028)<br>
     金岡グループメンバー
+  </div>
+</div>
+
+<h2>Academic Service</h2>
+<div style="margin-bottom: 1.5rem;">
+  <div style="font-weight: bold;">2025</div>
+  <div>
+    コンピュータセキュリティシンポジウム2025 (CSS2025)<br>
+    キャンドルスターセッション (CSS×2.0) 実行委員長
   </div>
 </div>
