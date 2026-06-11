@@ -83,28 +83,29 @@ permalink: /
 
 <h2>Affiliation</h2>
 <div style="margin-bottom: 1.5rem;">
-  東邦大学大学院 理学研究科 情報科学専攻 ユーザブルセキュリティ（金岡）研究室
+  東邦大学大学院 理学研究科 情報科学専攻 ユーザブルセキュリティ (金岡) 研究室<br>
+  理化学研究所 革新知能統合研究センター (AIP) 人工知能安全性・信頼性ユニット (研究パートタイマーⅠ)
 </div>
 
 <h2>Education</h2>
 <div style="margin-bottom: 1.5rem;">
   <div style="font-weight: bold;">2025.4 -</div>
   <div>
-    東邦大学大学院 理学研究科 情報科学専攻 ユーザブルセキュリティ（金岡）研究室<br>
+    東邦大学大学院 理学研究科 情報科学専攻 ユーザブルセキュリティ (金岡) 研究室<br>
     博士後期課程 在学中
   </div>
 </div>
 <div style="margin-bottom: 1.5rem;">
   <div style="font-weight: bold;">2023.4 - 2025.3</div>
   <div>
-    東邦大学大学院 理学研究科 情報科学専攻 ユーザブルセキュリティ（金岡）研究室<br>
+    東邦大学大学院 理学研究科 情報科学専攻 ユーザブルセキュリティ (金岡) 研究室<br>
     博士前期課程 修了
   </div>
 </div>
 <div style="margin-bottom: 1.5rem;">
   <div style="font-weight: bold;">2019.4 - 2023.3</div>
   <div>
-    東邦大学 理学部 情報科学科 ユーザブルセキュリティ（金岡）研究室<br>
+    東邦大学 理学部 情報科学科 ユーザブルセキュリティ (金岡) 研究室<br>
     学士課程 卒業
   </div>
 </div>
