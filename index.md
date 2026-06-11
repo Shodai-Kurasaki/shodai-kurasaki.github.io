@@ -127,6 +127,7 @@ permalink: /
 
 <h2>Research Projects</h2>
 <div style="margin-bottom: 1.5rem;">
+  <div style="font-weight: bold;">2022 -</div>
   <div>
     JST CREST「多様な形態の現実を安心・安全に創り・繋ぐTrusted Inter-Reality基盤」 (2022-2028)<br>
     金岡グループメンバー
